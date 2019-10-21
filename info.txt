@@ -1,0 +1,11 @@
+
+font name: LinguisticsPro-Regular
+font link: https://github.com/StefanPeev/Linguistics-Pro
+font author: Local Fonts
+font author site: https://localfonts.eu/
+
+
+icon designer: Gregor Cresnar
+icon designer link: /grega.cresnar
+
+{"bg":"transparent","icon-gradient-0":"#0015D6","icon-gradient-1":"#0989FB","font":"#000000","slogan":"#141414"}

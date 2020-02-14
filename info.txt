@@ -1,11 +1,14 @@
 
-font name: LinguisticsPro-Regular
-font link: https://github.com/StefanPeev/Linguistics-Pro
-font author: Local Fonts
-font author site: https://localfonts.eu/
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: CroissantOne-Regular
+font link: https://fonts.google.com/specimen/Croissant+One
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+Slogan Font: SpaceMono-Regular.ttf
 
-
-icon designer: Gregor Cresnar
-icon designer link: /grega.cresnar
-
-{"bg":"transparent","icon-gradient-0":"#0015D6","icon-gradient-1":"#0989FB","font":"#000000","slogan":"#141414"}
+icon designer: Made by Made
+icon designer link: /made.somewhere
+        
+{"bg":"#0B173D","icon":"#D1A103","font":"#D1A103","slogan":"#e5b517"}
+      
